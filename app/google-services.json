@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828411500060",
+    "project_id": "broo-bd94a",
+    "storage_bucket": "broo-bd94a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828411500060:android:974b6f50b9c3b30f8cb1d9",
+        "android_client_info": {
+          "package_name": "com.project.bro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmXFLanVTUG4bLkjrFpEt4yh4C1_Zp6f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
